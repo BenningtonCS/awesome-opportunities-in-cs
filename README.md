@@ -16,8 +16,10 @@ An awesome list of events and scholarship opportunities in computer science
 - [defhacks](http://defhacks.io/ny.html) - April 22-23, 2017. Thoughtworks NYC. 99 Madison Ave, New York, NY.
 - [BCCHacks](http://www.berkshirecc.edu/news-events/bcc-hacks/) - April 28-29, 2017. BCC Cafeteria. 1350 West Street, Pittsfield, MA.
 - [Boston Hacks](https://bostonhacks.io/) - April 29-30, 2017. George Sherman Union, 2nd Floor in Metcalf Hall at 775 Commonwealth Avenue, Boston, MA.
+- [Space Apps Challenge 2017](https://2017.spaceappschallenge.org/) - April 29-30, 2017. Nationally.
 - [Hackathon for Social Good](http://hackathon.tvcog.net/hackathon-for-social-good/) - June TBA, 2017. TVCOG. 30 3rd Street, Troy, NY.
 - National Day of Civic Hacking - September 23, 2017. Info TBA. Nationally.
+
 
 ## Scholarships
 - [AltConf 2017 Diversity and Inclusion Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSdu2vdX1uUfa0PgTUi1v2iJl6mF-NLw_gWk2_9VxEeffo2Prw/viewform) - Alternative to Apple's annual WWDC conference. Deadline April 16, 2017 Midnight PDT.
