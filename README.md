@@ -24,6 +24,7 @@ An awesome list of events and scholarship opportunities in computer science
 ## Scholarships
 - [AltConf 2017 Diversity and Inclusion Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSdu2vdX1uUfa0PgTUi1v2iJl6mF-NLw_gWk2_9VxEeffo2Prw/viewform) - Alternative to Apple's annual WWDC conference. Deadline April 16, 2017 Midnight PDT.
 - [O’Reilly Conference Diversity and Inclusion Scholarship Program](http://www.oreilly.com/conferences/diversity-application.csp)
+- [Hack Reactor Scholarship](http://www.hackreactor.com/scholarships) - Deadline May 19, 2017.
 
 ## General Opportunities
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - Annual Google program that places students with organizations doing coding over the summer.
