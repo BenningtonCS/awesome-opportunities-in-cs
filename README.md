@@ -32,4 +32,4 @@ An awesome list of events and scholarship opportunities in computer science
 - [GitHub Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 
 ## Internships
-- [Software intern opportunity](https://www.rocketlabusa.com/careers/positions/software-intern-opportunity-auckland-new-zealand-2709411/) - Auckland, New Zealand.
+- [Software intern opportunity](https://www.rocketlabusa.com/careers/positions/software-intern-opportunity-auckland-new-zealand-2709411/) - Rocket Lab. Auckland, New Zealand.
