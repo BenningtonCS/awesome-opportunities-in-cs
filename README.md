@@ -6,6 +6,7 @@ An awesome list of events and scholarship opportunities in computer science
 - [Hackathons](#hackathons)
 - [Scholarships](#scholarships)
 - [General Opportunities](#general-opportunities)
+- [Internships](#internships)
 
 ## Hackathons
 - [International Development Hackathon](https://www.idhack.developersfordevelopment.org/) - April 7-8, 2017. 574 Boston Ave, Medford, MA. 
@@ -30,3 +31,6 @@ An awesome list of events and scholarship opportunities in computer science
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - Annual Google program that places students with organizations doing coding over the summer.
 - [Google CodeJam](https://code.google.com/codejam/) - Annual programming contest. April 7, 2017 qualification round.
 - [GitHub Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
+
+## Internships
+- [Software intern opportunity](https://www.rocketlabusa.com/careers/positions/software-intern-opportunity-auckland-new-zealand-2709411/) - Auckland, New Zealand.
