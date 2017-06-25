@@ -18,6 +18,7 @@ An awesome list of events and scholarship opportunities in computer science
 - [BCCHacks](http://www.berkshirecc.edu/news-events/bcc-hacks/) - April 28-29, 2017. BCC Cafeteria. 1350 West Street, Pittsfield, MA.
 - [Boston Hacks](https://bostonhacks.io/) - April 29-30, 2017. George Sherman Union, 2nd Floor in Metcalf Hall at 775 Commonwealth Avenue, Boston, MA.
 - [Space Apps Challenge 2017](https://2017.spaceappschallenge.org/) - April 29-30, 2017. Nationally.
+- [HackMIT](https://hackmit.org/) - September 16-17, 2017. Massachusetts Institute of Technology
 - National Day of Civic Hacking - September 23, 2017. Info TBA. Nationally.
 
 
